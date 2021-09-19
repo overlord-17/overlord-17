@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @overlord-17
-- 👀 I’m interested in Web development and Machine learning
+- 👀 I’m interested in Machine learning and Deep Learning
 - 🌱 I’m currently learning Machine learning and data science
 - 📫 How to reach me ...
 - Resume: [Rajdeep's Resume.pdf](https://github.com/overlord-17/overlord-17/files/6527685/Rajdeep.s.Resume.pdf)
